@@ -1,0 +1,62 @@
+Class Structure Planning
+
+Ecosystem = Comprised of many Living Organisms
+
+All Organisms:
+Take in energy & water
+Use that energy & water to live
+Reproduce
+Have "genes" (represented by stats) which are inherited from the parents
+
+There are different types of organisms, such as plants and animals.
+
+Plants:
+Cannot move but can choose where to grow based on efficiency
+Take in energy from the sun & water from rain and rivers / lakes
+Reproduce by spreading seeds (which have a chance of being eaten by animals)
+
+Animals:
+Can move, use this to find food
+Reproduce by trading genetic information with another Animal of its type
+A few different types, classified based on bodies, habitat and what they eat.
+
+Classifications:
+
+Dietary:
+Herbivore - eats plants
+Granivore - eats seeds
+Carnivore - eats other animals
+Pescivore - eats fish
+Insectivore - eats insects
+Ovivore - eats eggs
+
+Dietary options are also restricted by the size of the organism
+(an eagle will not attempt to hunt an alligator)
+
+Body Type:
+
+Insects
+Birds
+Mammals
+Fish
+Reptiles
+Amphibians
+
+Habitat:
+(All animals share the same ecosystem habitat, this specifies where they inhabit within
+that ecosystem, where they make their nests, etc)
+
+Ground
+Underground (earthworms)
+Hole (differs by being a large burrow)
+River
+Lake
+Puddle
+Mud
+Treetops
+Tree trunk
+Grass
+Bush
+
+
+ 
